@@ -22,12 +22,7 @@ namespace Aranda.Avs.Automatization.WebApplication.Test.StepDefinitions
         [When(@"\[action]")]
         public void WhenAction()
         {
-         
-
-        [Then(@"\[outcome]")]
-        public void ThenOutcome()
-        {
-           
         }
+
     }
 }
